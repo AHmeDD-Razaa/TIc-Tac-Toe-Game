@@ -1,4 +1,4 @@
-🎯 Tic Tac Toe Game
+# 🎯 Tic Tac Toe Game
 
 A fun and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.  
 Play against a friend and test your strategy skills! 🧠
